@@ -4,11 +4,12 @@ O CertifiCard é um site que construí assistindo as aulas de HTML e CSS que foi
 Há um card no site onde têm vários links de projetos que fiz durante o Imersão.
 
 ## Projetos:
-💰 Conversor de Moedas <br>
-🔢 Calculadora <br>
-🔮 Mentalista <br>
-🎬 Aluraflix simples <br>
-🎬 Aluraflix com botão <br>
-🏆 Tabela de classificação <br>
-🃏 Super trunfo <br>
-🌐 Certificard <br>
+
+<a href="https://codepen.io/alexandrejilek/pen/VwPZBVR" target="_blank"><li>💰 Conversor de Moedas</li></a>
+<a href="https://codepen.io/alexandrejilek/pen/abpzQrL" target="_blank"><li>🔢 Calculadora</li></a>
+<a href="https://codepen.io/alexandrejilek/pen/BapoLyM" target="_blank"><li>🔮 Mentalista</li></a>
+<a href="https://codepen.io/alexandrejilek/pen/RwKWmWm" target="_blank"><li>🎬 Aluraflix simples</li></a>
+<a href="https://codepen.io/alexandrejilek/pen/YzNqQgp" target="_blank"><li>🎬 Aluraflix com botão</li></a>
+<a href="https://codepen.io/alexandrejilek/pen/zYNKGmz" target="_blank"><li>🏆 Tabela de classificação</li></a>
+<a href="https://codepen.io/alexandrejilek/pen/vYgxMBQ" target="_blank"><li>🃏 Super trunfo</li></a>
+<a href="https://codepen.io/alexandrejilek/pen/zYNZXJa" target="_blank"><li>🌐 Certificard</li></a>
