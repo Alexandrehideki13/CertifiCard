@@ -5,11 +5,18 @@ Há um card no site onde têm vários links de projetos que fiz durante o Imers�
 
 ## Projetos:
 
-<a href="https://codepen.io/alexandrejilek/pen/VwPZBVR" target="_blank"><li>💰 Conversor de Moedas</li></a>
-<a href="https://codepen.io/alexandrejilek/pen/abpzQrL" target="_blank"><li>🔢 Calculadora</li></a>
-<a href="https://codepen.io/alexandrejilek/pen/BapoLyM" target="_blank"><li>🔮 Mentalista</li></a>
-<a href="https://codepen.io/alexandrejilek/pen/RwKWmWm" target="_blank"><li>🎬 Aluraflix simples</li></a>
-<a href="https://codepen.io/alexandrejilek/pen/YzNqQgp" target="_blank"><li>🎬 Aluraflix com botão</li></a>
-<a href="https://codepen.io/alexandrejilek/pen/zYNKGmz" target="_blank"><li>🏆 Tabela de classificação</li></a>
-<a href="https://codepen.io/alexandrejilek/pen/vYgxMBQ" target="_blank"><li>🃏 Super trunfo</li></a>
-<a href="https://codepen.io/alexandrejilek/pen/zYNZXJa" target="_blank"><li>🌐 Certificard</li></a>
+<div>
+  <div style="width: 400px">
+    <a href="https://codepen.io/alexandrejilek/pen/VwPZBVR" target="_blank"><li>💰 Conversor de Moedas</li></a>
+    <a href="https://codepen.io/alexandrejilek/pen/abpzQrL" target="_blank"><li>🔢 Calculadora</li></a>
+    <a href="https://codepen.io/alexandrejilek/pen/BapoLyM" target="_blank"><li>🔮 Mentalista</li></a>
+    <a href="https://codepen.io/alexandrejilek/pen/RwKWmWm" target="_blank"><li>🎬 Aluraflix simples</li></a>
+    <a href="https://codepen.io/alexandrejilek/pen/YzNqQgp" target="_blank"><li>🎬 Aluraflix com botão</li></a>
+    <a href="https://codepen.io/alexandrejilek/pen/zYNKGmz" target="_blank"><li>🏆 Tabela de classificação</li></a>
+    <a href="https://codepen.io/alexandrejilek/pen/vYgxMBQ" target="_blank"><li>🃏 Super trunfo</li></a>
+    <a href="https://codepen.io/alexandrejilek/pen/zYNZXJa" target="_blank"><li>🌐 Certificard</li></a>
+  </div>
+  <div style:"display: block; flex-direction: column;">
+    <img src="https://github.com/Alexandrehideki13/CertifiCard/blob/main/img-CertifiCard.jpg" width="563.25" heigth="351" align="right">
+  </div>
+</div>
